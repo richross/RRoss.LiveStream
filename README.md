@@ -6,7 +6,7 @@ Repo with all of the information related to the live stream activities.  Schedul
 
 Monday, Wednesday and Friday from 8-9 am EST.
 
-Trying this out to see how this lands with everyone.  I also opened an issue on the repo where you can provide your comments and suggestions on what might work better.  I am open to suggestions.
+I also opened an issue on the repo where you can provide your comments and suggestions on what might work better.  I am open to moving the time.  It just cannot be during the core business hours.
 
 # Projects
 
