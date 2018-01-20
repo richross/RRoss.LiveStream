@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# RRoss.LiveStream
 
-You can use the [editor on GitHub](https://github.com/richross/RRoss.LiveStream/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Repo with all of the information related to the live stream activities.  Schedule, list of topics and place to comment on topics to include.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Schedule
 
-### Markdown
+Monday, Wednesday and Friday from 8-9 am EST.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I also opened an issue on the repo where you can provide your comments and suggestions on what might work better.  I am open to moving the time.  It just cannot be during the core business hours.
 
-```markdown
-Syntax highlighted code block
+# Projects
 
-# Header 1
-## Header 2
-### Header 3
+I have a collection of projects taking up my interest over the past several months that continue to require updating and minor improvements.  In addition, there are a number of technologies I want to dive into and build sample projects.  Here is a short list of things I plan to work on as part of the stream (in no order).
 
-- Bulleted
-- List
+* Container Camp - a project started with a number of friends from work that provides a foundation for a developer focused container workshop.  We continue to enhance and release updates to this project.  You can see this project at https://github.com/microsoft/MTC_ContainerCamp
+* Speaker Portal - this is a basic project to start with but will be one that we can continually improve with the community.  This application collects talk ideas for a conference.  Accepted talks are put into a schedule.  Authenticated users can plan out their schedule for the conference as well as provide feedback on the sessions.  https://github.com/richross/SpeakerPortal
+* BOTS - many people are interested in talking about bots.  I've done conversation bot projects using ASP.NET 4.x framework, but want to build one using the Azure Bot Service.  This bot would provide information on a local community event in this area called Code Camp, listing speakers, sessions and general information.  https://dev.botframework.com 
+* Cognitive Services - including AI in your applications does not always require a Data Scientist.  There are about 30 different services available to easily give your application intelligence, resulting in an improved user exeperience.  For this project, I would like to explore the Custom Vision API.  https://microsoft.com/cognitive
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/richross/RRoss.LiveStream/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Have an idea for a project using Azure services you want to see us code.  Submit it in the issue list and tag it 'projects'.
