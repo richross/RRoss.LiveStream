@@ -1,12 +1,12 @@
 # RRoss.LiveStream
 
-Repo with all of the information related to the live stream activities.  Schedule, list of topics and place to comment on topics to include.
+This repo contains all of the information related to my live stream activities.  Schedule, list of topics and place to comment and voice your opinion.
 
 # Schedule
 
 Monday, Wednesday and Friday from 8-9 am EST.
 
-I also opened an issue on the repo where you can provide your comments and suggestions on what might work better.  I am open to moving the time.  It just cannot be during the core business hours.
+I also opened an issue on the repo where you can provide your comments and suggestions on what might work better.  I am open to moving the time but it needs to be outside the core business hours, which for me is 9a-5p EST (UTC -5:00).
 
 # Projects
 
@@ -17,4 +17,4 @@ I have a collection of projects taking up my interest over the past several mont
 * BOTS - many people are interested in talking about bots.  I've done conversation bot projects using ASP.NET 4.x framework, but want to build one using the Azure Bot Service.  This bot would provide information on a local community event in this area called Code Camp, listing speakers, sessions and general information.  https://dev.botframework.com 
 * Cognitive Services - including AI in your applications does not always require a Data Scientist.  There are about 30 different services available to easily give your application intelligence, resulting in an improved user exeperience.  For this project, I would like to explore the Custom Vision API.  https://microsoft.com/cognitive
 
-Have an idea for a project using Azure services you want to see us code.  Submit it in the issue list and tag it 'projects'.
+Have an Anzure service you want to see included in a project?  Submit it in the issue list and tag it 'Project Ideas'.  If already see the idea as part of an existing project, write the issue there.
