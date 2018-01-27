@@ -17,4 +17,4 @@ I have a collection of projects taking up my interest over the past several mont
 * BOTS - many people are interested in talking about bots.  I've done conversation bot projects using ASP.NET 4.x framework, but want to build one using the Azure Bot Service.  This bot would provide information on a local community event in this area called Code Camp, listing speakers, sessions and general information.  https://dev.botframework.com 
 * Cognitive Services - including AI in your applications does not always require a Data Scientist.  There are about 30 different services available to easily give your application intelligence, resulting in an improved user exeperience.  For this project, I would like to explore the Custom Vision API.  https://microsoft.com/cognitive
 
-Have an Anzure service you want to see included in a project?  Submit it in the issue list and tag it 'Project Ideas'.  If already see the idea as part of an existing project, write the issue there.
+Have an Azure service you want to see included in a project?  Submit it in the issue list and tag it 'Project Ideas'.  If already see the idea as part of an existing project, write the issue there.
