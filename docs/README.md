@@ -4,9 +4,7 @@ This repo contains all of the information related to my live stream activities. 
 
 # Schedule
 
-Monday, Wednesday and Friday from 8-9 am EST.
-
-I also opened an issue on the repo where you can provide your comments and suggestions on what might work better.  I am open to moving the time but it needs to be outside the core business hours, which for me is 9a-5p EST (UTC -5:00).
+Looking for a schedule that works at this point.  Got a suggestion?  Comment in the issue section.
 
 # Projects
 
