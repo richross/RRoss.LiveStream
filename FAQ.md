@@ -1,7 +1,7 @@
 When do you live stream?
 Mondays at noon
 
-Where is the stream url
+Where is the stream url?
 https://mixer.com/richross
 
 How can I contribute?
